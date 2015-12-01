@@ -10,4 +10,4 @@ List of resources for designing
 
 ## Vectors
 #### [clipart.me](http://clipart.me/) (icons & other graphics resources)
-#### [http://www.freepik.com/](http://www.freepik.com/) (icons & other graphics resources)
+#### [freepik.com](http://www.freepik.com/) (icons & other graphics resources)
